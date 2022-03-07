@@ -4,7 +4,7 @@ I created this app as an introduction for myself to Android app development.
 
 For a demonstration and explanation, watch the video below
 
-[Software Demo Video](http://youtube.link.goes.here) (Coming soon!)
+[Software Demo Video](https://youtu.be/n0xcz9Zev7g)
 
 # Development Environment
 
